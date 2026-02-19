@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[49,)"
+license="MIT"
+[[mods]]
+modId="quickrelease"
+version="1.0.0"
+displayName="Quick Release Addon"
+description='Adds a hotkey (R) triggered quick release for Cobblemon PC. Grid icon confirmation, excludes shinies & legendaries.'
+authors="sven1719"
